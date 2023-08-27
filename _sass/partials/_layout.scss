@@ -343,18 +343,36 @@ li.agenda {
   margin-bottom: 0 !important;
 }
 
+.agenda {
+  color:$black;
+}
+
 .agenda__row {
   border-bottom: 1px solid $black;
   padding: 20px 0;
   display: block;
 }
 
-a.agenda__row {
+a.agenda__row, a.agenda__title {
   &:hover {
-    background-color: $hover-accent-color;
-    color: $site-background-color;
+    background-color: $black;
+    color: $site-background-color !important;
   }
+  color:$black;
 }
+
+// a.agenda__title {
+//   &:hover{
+//     color:$site-background-color;
+//   }
+//   color: $black;
+// }
+
+.page-content {
+  color: $black;
+}
+
+
 
 .agenda-page-row {
   margin-bottom: $line-height * 2;

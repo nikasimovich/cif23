@@ -13,8 +13,13 @@ body {
     font-size: 38px;
     line-height: 1.4;
     background-color: #fefefe;
+    color:$black;
 }
 
+
+h1, h2 {
+  color: $black;
+}
 /* structure */
 
 .content {
@@ -50,7 +55,7 @@ body {
 
 .simplelink {
   text-decoration: none;
-  color: #000;
+  color: $black;
   background-color: #f2e1ff;
   transition: all 0.1s ease;
 }
@@ -120,7 +125,7 @@ body {
   font-style: italic;
   background-color: #99CDFF;
   text-decoration: none;
-  color: #000;
+  color: $black;
   position: relative;
 }
 
