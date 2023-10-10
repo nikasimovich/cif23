@@ -10,7 +10,7 @@ summary: Archives, Collage, Positioning
 - [Today's Notes](https://paper.dropbox.com/doc/Core-1-Interaction-Week-6-Notes-Structure--CBGCG7adsnTrHGoRgz4FCtN8AQ-e40Wu2hiIujzTp3Bg7REp)
 - Show and tell of fourth harmonic collection
 - Reading discussion
-- CD Lecture Series! Annika Hansteen / 10:30-11:30 AM
+- CD Lecture Series! Annika Hansteen-Izora / 10:30-11:30 AM
 Tishman Auditorium University Center, U100
 - Positioning, Collage, Flexbox
 
