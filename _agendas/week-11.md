@@ -1,6 +1,6 @@
 ---
 title:            Week 11
-start_date:       2022-10-10 00:00:00 -0500
+start_date:       2023-10-10 00:00:00 -0500
 date_range:       10/31
 summary: Accessibility, SVGs, CSS animations, Review
 ---
@@ -12,4 +12,4 @@ summary: Accessibility, SVGs, CSS animations, Review
 - SVGs, CSS animations, review
 
 ### Homework
-1. Entry 7; use a combinatino of an SVG, CSS animation and images with descriptive alt text.
+1. Entry 7; use a combination of an SVG, CSS animation and images with descriptive alt text.
