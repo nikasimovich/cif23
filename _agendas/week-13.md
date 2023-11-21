@@ -2,7 +2,7 @@
 title:            Week 13
 start_date:       2023-10-12 00:00:00 -0500
 date_range:       11/21
-summary: JavaScript Libraries
+summary: JavaScript Continued
 ---
 
 ### Tuesday, In Class
