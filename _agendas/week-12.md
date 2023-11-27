@@ -1,5 +1,5 @@
 ---
-title:            Week 13
+title:            Week 12
 start_date:       2023-10-12 00:00:00 -0500
 date_range:       11/07
 summary: Asynchronous activity; Nika has COVID
